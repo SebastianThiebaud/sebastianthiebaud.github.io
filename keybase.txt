@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sebthiebaud
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sebastian.thiebaud.dev
+  * I am sebthiebaud (https://keybase.io/sebthiebaud) on keybase.
+  * I have a public key ASBUd-V3wkRIRz1TnMcKtu5x-QcTXtmM7kS_ll01z-yJ5go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205477e577c24448473d539cc70ab6ee71f907135ed98cee44bf965d35cfec89e60a",
+      "host": "keybase.io",
+      "kid": "01205477e577c24448473d539cc70ab6ee71f907135ed98cee44bf965d35cfec89e60a",
+      "uid": "bfd72b21263b75ad3c8b71ca78d55719",
+      "username": "sebthiebaud"
+    },
+    "merkle_root": {
+      "ctime": 1571119240,
+      "hash": "e5b09579e523efe2ccd4172f843482f67723e26fdbc631aa9df7003e2e5bb15085e5470c6c8fb3343d3fcc5e955705c7de62b16528124fb34be273cfafbbf709",
+      "hash_meta": "8f9d2ce29d9e78d7461ecc5deb70f7a5cf3fe293dd7fb36c62739e365feed344",
+      "seqno": 8130553
+    },
+    "service": {
+      "entropy": "+rSjUbFXkZm14KN7fwSRXNoN",
+      "hostname": "sebastian.thiebaud.dev",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.6.0"
+  },
+  "ctime": 1571119245,
+  "expire_in": 504576000,
+  "prev": "586305797e605a7fb066b3faa647eac9f597d7130315b2ea516ef09cf2da3d6d",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVHfld8JESEc9U5zHCrbucfkHE17ZjO5Ev5ZdNc/sieYKp3BheWxvYWTESpcCEcQgWGMFeX5gWn+wZrP6pkfqyfWX1xMDFbLqUW7wnPLaPW3EIKMG9h2gmEHXja455T/gsJBM/59Mv/0Zj2eBgeW7+WbBAgHCo3NpZ8RATaiyi52bF5RKaYT439ElQ34QXJPS1a8tN1+FhbncKFr4Se2aQA/CWttBA4gNgSP8jY8YvT6zau6s3Ryb0ji0CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE/mmz/WaM22q2APHoFyMGJq2H+QtN4+usVyiypduAPto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sebthiebaud
+
+==================================================================
